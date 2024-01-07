@@ -18,6 +18,8 @@
 produce my own music with some friends of mine, as well as anything else that i happen to be interested in at the time! </p>
 <p>my full portfolio is <a href="https://collegeportfolio.vercel.app/" target="_blank">here</a></p>
 
+<p>right now, i haven't got any notable projects that i can show off, but that will change in the future!</p>
+
 ###
 
 <h3 align="left">🛠 languages and tools that i've worked with</h3>
