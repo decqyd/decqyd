@@ -16,7 +16,7 @@
     software development course
 </a> in college  <br>&nbsp;&nbsp;&nbsp;&nbsp;- 🤓 i'm studying several things such as web and systems development, artifical intelligence and cybersecurity<br>&nbsp;&nbsp;&nbsp;&nbsp;- 🎧 in my free time i like to play guitar and attempt to
 produce my own music with some friends of mine, as well as anything else that i happen to be interested in at the time! </p>
-<p>my full portfolio is <a href="https://collegeportfolio.vercel.app/" target="_blank">here</a></p>
+<p>my full portfolio is <a href="https://collegeportfolio.vercel.app/" target="_blank">here</a> (may not work on apple devices for whatever reason)</p>
 
 <p>right now, i haven't got any notable projects that i can show off, but that will change in the future!</p>
 
